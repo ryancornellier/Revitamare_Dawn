@@ -8,7 +8,7 @@
         "4a9765b4-697f-4e17-9a7e-52c7a2f54976"
     ],
     "filterType": "GMObject",
-    "folderName": "Wall",
+    "folderName": "Solids",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
