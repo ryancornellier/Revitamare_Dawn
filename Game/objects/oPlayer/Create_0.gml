@@ -6,6 +6,7 @@ max_health = 5;
 hp = max_health;
 flash = 0; 
 hascontrol = true;
+invincible = false; 
 
 
 
