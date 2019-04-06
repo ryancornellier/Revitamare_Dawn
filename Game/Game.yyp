@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "2f1d4907-ca27-4aa2-b4c2-3cb39f4c425a",
+            "Value": {
+                "id": "5e005c82-8afc-47b9-b265-540603d06263",
+                "resourcePath": "objects\\oLaundry\\oLaundry.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "319422f4-d692-461d-aa0a-95c8f99c263c",
             "Value": {
                 "id": "ec2bb742-eef9-438a-b073-c08c1a8722b0",
@@ -283,6 +291,14 @@
             "Value": {
                 "id": "68d55c63-4412-4a20-9e2f-9a80d1f52ea9",
                 "resourcePath": "sprites\\sWall\\sWall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "548beb78-f771-421c-9daf-58aa2a473683",
+            "Value": {
+                "id": "5b216595-dd55-427a-b292-210462334218",
+                "resourcePath": "sprites\\sLaundry\\sLaundry.yy",
                 "resourceType": "GMSprite"
             }
         },
