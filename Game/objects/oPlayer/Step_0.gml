@@ -65,4 +65,30 @@ else
 		sprite_index = sPlayerWalk;	
 	}
 }
-//if (hsp != 0) image_xscale = sign(hsp); 
+
+//Checks if you're not moving vertically or horizontally
+if (move == 0 && vsp == 0){
+    //checks if your direction is left
+    if (direction >90 && direction < 270){
+       sprite_index = sPlayer;
+    }else{
+        sprite_index = sPlayer;
+    }
+
+}
+
+//moving right and not jumping or falling
+if (move > 0 and vsp = 0){
+    sprite_index = sPlayerWalk; 
+    //replace this with what ever your actual sprite is
+}
+
+//moving left and not jumping or falling
+if (move < 0 and vsp = 0){
+    sprite_index = sPlayerWalk; 
+    //replace this with what ever your actual sprite is 
+}
+//if (hsp != 0) 
+//	{
+//	image_xscale = sign(hsp); 
+//	}

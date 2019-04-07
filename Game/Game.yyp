@@ -503,6 +503,14 @@
             }
         },
         {
+            "Key": "85fb2d8c-7686-40a9-8e3e-3e9cad9e3f8e",
+            "Value": {
+                "id": "673ed29a-e040-4433-8759-e2ecf62904d2",
+                "resourcePath": "objects\\oCloudBullet\\oCloudBullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8686a456-3304-42f5-8b6a-6a92d6963083",
             "Value": {
                 "id": "7940b91a-b57f-4301-9acf-590498cacf40",
@@ -567,6 +575,14 @@
             }
         },
         {
+            "Key": "962ad63f-77c0-46b5-9fc9-bb2f685e13dd",
+            "Value": {
+                "id": "d80e1377-64dd-4b52-bfe1-172edcf5d069",
+                "resourcePath": "sprites\\sCloudBullet\\sCloudBullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "993a82e8-55db-4a4f-9a6e-f5add85b419b",
             "Value": {
                 "id": "9002ca6d-54bf-4d54-b734-ac8b75520838",
@@ -594,7 +610,7 @@
             "Key": "adbadc37-86f2-41aa-a618-ef052dca0d63",
             "Value": {
                 "id": "255f99d1-849c-45d0-9dc0-835bde0f7aaf",
-                "resourcePath": "objects\\oSheepEnemy\\oSheepEnemy.yy",
+                "resourcePath": "objects\\oDogEnemy\\oDogEnemy.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -631,6 +647,14 @@
             }
         },
         {
+            "Key": "b9c152ca-92d9-4f26-aff4-1c9d7e0864ea",
+            "Value": {
+                "id": "3ff8b02e-91a1-4531-b9e5-ebc3c1ab651e",
+                "resourcePath": "sprites\\sCloudEnemy\\sCloudEnemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "baa8d65d-0105-4ce4-933a-91eeda8920bf",
             "Value": {
                 "id": "1097f159-eb0f-400b-9d61-fd97f154bda4",
@@ -652,6 +676,14 @@
                 "id": "db1476b3-fd93-466f-9c07-36b7a57c8c5c",
                 "resourcePath": "views\\c37abd8c-b2ca-4829-96ec-2fd9029856ac.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c4294c68-64e3-474f-b422-74f67df0b117",
+            "Value": {
+                "id": "aa36d120-8e17-490b-accc-9cb9eab28ec4",
+                "resourcePath": "objects\\oCloudEnemy\\oCloudEnemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -692,6 +724,14 @@
                 "id": "708f028a-b430-4a02-b4c8-08226c377790",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ccf5a285-fe5d-4e56-9580-3906b04f5b86",
+            "Value": {
+                "id": "25510aa2-7837-4783-9101-79a4d7dcf2d6",
+                "resourcePath": "views\\ccf5a285-fe5d-4e56-9580-3906b04f5b86.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
