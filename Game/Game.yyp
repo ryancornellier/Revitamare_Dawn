@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "29ee35a9-d002-4138-982e-5315c5b8194c",
+            "Value": {
+                "id": "6246419b-0735-48d4-9b9d-713788dfdf3b",
+                "resourcePath": "objects\\oSheepEnemy\\oSheepEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2a8559e9-68d5-4e18-8e6e-eeceb4edd547",
             "Value": {
                 "id": "d5b8809a-0088-444f-8224-04406f7db631",
