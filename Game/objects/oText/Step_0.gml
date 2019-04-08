@@ -13,12 +13,3 @@ w = string_width(text_current);
 //	instance_destroy();
 //	with (oCamera) follow = oPlayer;
 //}
-
-//Destroy When Clicked with Right Mouse Button 
-if mouse_check_button_pressed(mb_right) 
-{
-    if collision_point(mouse_x, mouse_y, oText, true, false) //Arguments are (x, y, obj, prec, notme)
-    {
-		instance_destroy();
-	}
-}
