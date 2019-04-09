@@ -183,6 +183,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "29ee35a9-d002-4138-982e-5315c5b8194c",
             "Value": {
                 "id": "6246419b-0735-48d4-9b9d-713788dfdf3b",
@@ -207,6 +208,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of 80fa93b... Merge branch 'master' of https://github.com/ryancornellier/Revitamare_Dawn
             "Key": "319422f4-d692-461d-aa0a-95c8f99c263c",
             "Value": {
                 "id": "ec2bb742-eef9-438a-b073-c08c1a8722b0",
@@ -323,14 +326,6 @@
             "Value": {
                 "id": "68d55c63-4412-4a20-9e2f-9a80d1f52ea9",
                 "resourcePath": "sprites\\sWall\\sWall.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "548beb78-f771-421c-9daf-58aa2a473683",
-            "Value": {
-                "id": "5b216595-dd55-427a-b292-210462334218",
-                "resourcePath": "sprites\\sLaundry\\sLaundry.yy",
                 "resourceType": "GMSprite"
             }
         },
