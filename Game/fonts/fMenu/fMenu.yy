@@ -1,7 +1,7 @@
 {
     "id": "8686a456-3304-42f5-8b6a-6a92d6963083",
     "modelName": "GMFont",
-    "mvc": "1.0",
+    "mvc": "1.1",
     "name": "fMenu",
     "AntiAlias": 1,
     "TTFName": "",
@@ -10,6 +10,7 @@
     "charset": 0,
     "first": 0,
     "fontName": "Karen12",
+    "glyphOperations": 0,
     "glyphs": [
         {
             "Key": 32,
@@ -1452,13 +1453,16 @@
             }
         }
     ],
-    "image": null,
+    "hinting": 0,
     "includeTTF": false,
+    "interpreter": 0,
     "italic": false,
     "kerningPairs": [
         
     ],
     "last": 0,
+    "maintainGms1Font": false,
+    "pointRounding": 0,
     "ranges": [
         {
             "x": 32,

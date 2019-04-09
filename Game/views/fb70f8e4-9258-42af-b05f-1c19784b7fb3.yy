@@ -12,10 +12,14 @@
         "ac78580b-13f2-4b1b-bd4d-84871d14d5f4",
         "210a14fd-9c7c-4871-8c0e-8f7117837146",
         "76eab3f7-810f-4e68-99ff-04ba8b1246af",
+<<<<<<< HEAD
         "8920c563-ce6b-4ef8-92b0-f3556561fa1d",
         "d03e5dec-d36e-454b-9902-d975ffd2f2fa",
         "4dec2bb6-b500-4b20-a074-37512515b410",
         "8394e8a1-d9c4-4249-a664-cb39baf79229"
+=======
+        "8920c563-ce6b-4ef8-92b0-f3556561fa1d"
+>>>>>>> parent of a1c2e51... Tile Set Sprite Insert and Dog Enemy Insert
     ],
     "filterType": "GMSprite",
     "folderName": "sprites",

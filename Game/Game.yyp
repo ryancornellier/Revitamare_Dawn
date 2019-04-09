@@ -186,6 +186,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "Key": "29ee35a9-d002-4138-982e-5315c5b8194c",
             "Value": {
                 "id": "6246419b-0735-48d4-9b9d-713788dfdf3b",
@@ -202,6 +203,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of a1c2e51... Tile Set Sprite Insert and Dog Enemy Insert
             "Key": "2f1d4907-ca27-4aa2-b4c2-3cb39f4c425a",
             "Value": {
                 "id": "5e005c82-8afc-47b9-b265-540603d06263",
@@ -241,6 +244,7 @@
         },
         {
             "Key": "371bde90-9e51-45c4-866d-f06801410d88",
+<<<<<<< HEAD
             "Value": {
                 "id": "0ffb2140-40dd-4873-8532-c7dadbd93818",
                 "resourcePath": "objects\\oBed1\\oBed1.yy",
@@ -249,6 +253,8 @@
         },
         {
             "Key": "3ea6e0b7-3fb6-4cd9-8500-3cccd6f68f3b",
+=======
+>>>>>>> parent of a1c2e51... Tile Set Sprite Insert and Dog Enemy Insert
             "Value": {
                 "id": "e6cfff7a-32c7-43f5-96e1-188d63c3f6dd",
                 "resourcePath": "objects\\oClock\\oClock.yy",
@@ -312,6 +318,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "4dec2bb6-b500-4b20-a074-37512515b410",
             "Value": {
                 "id": "3e0938b7-bb28-4817-9c25-51ee852484d4",
@@ -320,6 +327,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of a1c2e51... Tile Set Sprite Insert and Dog Enemy Insert
             "Key": "4fcbcba5-90a5-4420-97e0-1594ae6036a2",
             "Value": {
                 "id": "59cddc79-9aab-4192-9b95-cc29f44cec05",
@@ -336,6 +345,17 @@
             }
         },
         {
+<<<<<<< HEAD
+=======
+            "Key": "548beb78-f771-421c-9daf-58aa2a473683",
+            "Value": {
+                "id": "5b216595-dd55-427a-b292-210462334218",
+                "resourcePath": "sprites\\sLaundry\\sLaundry.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+>>>>>>> parent of a1c2e51... Tile Set Sprite Insert and Dog Enemy Insert
             "Key": "55677343-7a35-4280-9c94-b39a366b42f8",
             "Value": {
                 "id": "435b57bc-f138-4341-8a72-a2c8b8305cb8",
@@ -400,6 +420,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "67273444-1f08-44cf-8698-092e225b3f0b",
             "Value": {
                 "id": "ffcd218c-15dc-4fce-8abd-43b3a9df77d3",
@@ -408,6 +429,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of a1c2e51... Tile Set Sprite Insert and Dog Enemy Insert
             "Key": "6c0634b0-bfc0-44ed-a8ed-7bc1a07450ac",
             "Value": {
                 "id": "e464ae3e-daac-4da7-bcb0-c781ac1d8408",
@@ -437,14 +460,6 @@
                 "id": "6f55d5d2-3bd1-43c4-b422-5dd5bdca7f9a",
                 "resourcePath": "sprites\\sPillow\\sPillow.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "753efa0d-151a-42dd-b4e0-4c8c7bd5c534",
-            "Value": {
-                "id": "86f0ec02-0c67-4aed-b451-9c0a660369f8",
-                "resourcePath": "tilesets\\DW_Main\\DW_Main.yy",
-                "resourceType": "GMTileSet"
             }
         },
         {
@@ -616,6 +631,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "94e3707a-f7a4-42af-b052-61e39ac8edb8",
             "Value": {
                 "id": "b94e6b30-9cd2-4dfa-8762-3b2a1aba6b52",
@@ -624,6 +640,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of a1c2e51... Tile Set Sprite Insert and Dog Enemy Insert
             "Key": "993a82e8-55db-4a4f-9a6e-f5add85b419b",
             "Value": {
                 "id": "9002ca6d-54bf-4d54-b734-ac8b75520838",
@@ -648,6 +666,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "ac78580b-13f2-4b1b-bd4d-84871d14d5f4",
             "Value": {
                 "id": "f324f532-f880-4b08-953d-53f3a1b0c8a0",
@@ -656,6 +675,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of a1c2e51... Tile Set Sprite Insert and Dog Enemy Insert
             "Key": "adbadc37-86f2-41aa-a618-ef052dca0d63",
             "Value": {
                 "id": "255f99d1-849c-45d0-9dc0-835bde0f7aaf",
@@ -680,6 +701,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "b66c84fe-5628-43f0-99b8-9e38793112bb",
             "Value": {
                 "id": "21920bc4-7b8a-47a8-b0b6-ca88fba70281",
@@ -688,6 +710,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of a1c2e51... Tile Set Sprite Insert and Dog Enemy Insert
             "Key": "b6dcead6-ce63-4d14-b27e-50b2f0e0d767",
             "Value": {
                 "id": "3d66fef1-510e-406f-a5a1-906e7e7ec671",
@@ -752,6 +776,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "c5d64a69-65e0-46c0-9edf-563aeb523ddc",
             "Value": {
                 "id": "930a9603-6c06-4360-bd9c-f1664398cc2f",
@@ -760,6 +785,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of a1c2e51... Tile Set Sprite Insert and Dog Enemy Insert
             "Key": "cc0f640d-ea40-41b2-8431-7e68dba1525a",
             "Value": {
                 "id": "7be59112-f9f9-4e04-8116-a3bd61a7112b",
@@ -808,6 +835,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "d9cef445-6e68-4b96-9519-8f5eb3564088",
             "Value": {
                 "id": "e4d408db-7e8d-41bc-be65-597e546352ba",
@@ -816,6 +844,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of a1c2e51... Tile Set Sprite Insert and Dog Enemy Insert
             "Key": "dabe00d1-8567-4b2e-9b2f-70056d2df6db",
             "Value": {
                 "id": "f90948ba-9cb7-42d3-981a-64d221b251da",
@@ -856,6 +886,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "e7bbe8a6-4dd7-4a2e-8352-2fb19f89aa60",
             "Value": {
                 "id": "6eb3017b-a57b-40ae-bd65-e6323432371f",
@@ -864,11 +895,21 @@
             }
         },
         {
+=======
+>>>>>>> parent of a1c2e51... Tile Set Sprite Insert and Dog Enemy Insert
             "Key": "f0791e37-ec2f-4d86-bdba-3da422fbadc0",
             "Value": {
                 "id": "7d56cb77-af5d-41be-b932-3a63816f58a5",
                 "resourcePath": "objects\\oLV1BG\\oLV1BG.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f5e5245d-309d-4e9b-84b7-b8a5878149ad",
+            "Value": {
+                "id": "e6b55540-c900-44f1-842c-e0e9fbb33727",
+                "resourcePath": "sprites\\sDogEnemy\\sDogEnemy.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
